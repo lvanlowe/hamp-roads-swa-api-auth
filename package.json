@@ -1,5 +1,5 @@
 {
-  "name": "swa-basic-api",
+  "name": "hamp-roads-swa-api-auth",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
